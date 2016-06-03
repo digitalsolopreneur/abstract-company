@@ -1,0 +1,23 @@
+{
+  "name": "abstract-company",
+  "version": "0.0.1",
+  "description": "specifies a standard interface to implement opening and running a company",
+  "main": "SOURCE/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalsolopreneur/abstract-company.git"
+  },
+  "keywords": [
+    "company",
+    "interface"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalsolopreneur/abstract-company/issues"
+  },
+  "homepage": "https://github.com/digitalsolopreneur/abstract-company#readme"
+}
